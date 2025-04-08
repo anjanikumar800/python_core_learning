@@ -1,0 +1,9 @@
+My name is Anjani Kumar, and I’m currently pursuing B.Tech in Computer Science and Engineering
+at Guru Jambheshwar University of Science and Technology (GJUST). 
+I come from Aurangabad, Bihar, and I have a deep interest in technology and programming. 
+Right now, I’m focusing on Python programming, aiming to become a Backend Software Engineer in the future.
+I have already learned core concepts of Python like loops, conditionals, and file handling,
+and I am continuously working on improving my skills. Apart from academics,
+I believe in managing time well between studies, personal growth, and family. 
+I’m a curious learner and always ready to explore new tools, frameworks,
+and technologies to shape a strong career in the tech field.
